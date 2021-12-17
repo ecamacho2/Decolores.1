@@ -1,0 +1,21 @@
+img {
+    width: 400px;
+    height: auto;
+}
+
+body {
+    background-image: url(img/Decolores.jpg);
+    background-size: cover;
+    background-size: 50%;
+}
+
+body {
+    background-color: rgb(19, 73, 80);
+}
+
+h1 {
+    color: blue;
+}
+p {
+    color: red;
+}
